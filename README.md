@@ -1,5 +1,7 @@
 # Streamlit Chatbot with Multilingual Support
 
+![Screenshot 2024-12-04 005719](https://github.com/user-attachments/assets/0a9f6727-4ae0-4565-8ff4-e85914bd9380)
+
 This repository hosts a Streamlit-based chatbot application leveraging **LangChain** and **Ollama LLM** for conversational AI and [**IndicTrans Toolkit**](https://github.com/AI4Bharat/IndicTrans2/tree/main/huggingface_interface) for multilingual support. The chatbot includes dynamic conversation management, response streaming, and translation between Manipuri (Meitei Mayek) and English.
 
 ---
